@@ -43,4 +43,4 @@ Application should allow users to view previously saved notes.
 Application should allow users to delete previously saved notes.
 
 - - -
-
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
